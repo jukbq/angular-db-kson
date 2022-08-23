@@ -1,13 +1,22 @@
 {
     "posts": [],
     "action": [{
-        "data": "23.08.2022",
-        "name": "РОЛ ТИЖНЫ",
-        "title": "50% знижки на Рол тижня",
-        "description": "Щотижня діє знижка 50% на один з ролів у нашому меню. 'Рол тижня' ви можете знайти на головній сторінці нашого сайту. Знижка діє при мінімальній сумі замовлення 200 грн. Ця акція не поєднується з іншими акціями.",
-        "images": "https://monosushi.com.ua/wp-content/uploads/2022/07/imgonline-com-ua-compressed-ryna9n84oqh1-scaled-697x379.jpg",
-        "id": 1
-    }],
+            "data": "23.08.2022",
+            "name": "РОЛ ТИЖНЫ",
+            "title": "50% знижки на Рол тижня",
+            "description": "Щотижня діє знижка 50% на один з ролів у нашому меню. 'Рол тижня' ви можете знайти на головній сторінці нашого сайту. Знижка діє при мінімальній сумі замовлення 200 грн. Ця акція не поєднується з іншими акціями.",
+            "images": "https://monosushi.com.ua/wp-content/uploads/2022/07/imgonline-com-ua-compressed-ryna9n84oqh1-scaled-697x379.jpg",
+            "id": 1
+        },
+        {
+            "data": "23.08.2022",
+            "name": "3+1=5",
+            "title": "\"3+1=5\"",
+            "description": "Замовляйте 5 ролів, а платіть за 4.\nЗамовляйте 10 ролів, а платіть за 8 і так далі.\nБезкоштовним вважається рол з найменшою вартістю.\nЦя акція не поєднується з іншими акціями.",
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2Faction-2.jpg?alt=media&token=4f95c00a-ec8c-46b6-a92e-d2a81bc4fe56",
+            "id": 2
+        }
+    ],
     "comments": [],
     "goods": [],
     "order": []
