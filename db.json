@@ -42,12 +42,48 @@
         }
     ],
     "comments": [{
-        "titel": "Філадельфія",
-        "link": "filadelfia",
-        "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Froly.svg?alt=media&token=736adbfd-a748-42a9-9bb8-5fa793828f1d",
-        "id": 1
-
-    }],
+            "titel": "Всі",
+            "link": "all",
+            "images": null,
+            "id": 8
+        },
+        {
+            "titel": "Філадельфія",
+            "link": "Filadelfia",
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Froly.svg?alt=media&token=73bb7ae0-07bb-4951-846a-988ca3499861",
+            "id": 2
+        },
+        {
+            "titel": "Каліфорнія",
+            "link": "Californian ",
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Froly.svg?alt=media&token=849e55a1-44a5-4be3-9039-365f08db9e04",
+            "id": 3
+        },
+        {
+            "titel": "Запечені",
+            "link": "baked",
+            "images": null,
+            "id": 4
+        },
+        {
+            "titel": "Фірмові",
+            "link": "Firm",
+            "images": null,
+            "id": 5
+        },
+        {
+            "titel": "Макі",
+            "link": "Maki",
+            "images": null,
+            "id": 6
+        },
+        {
+            "titel": "Праміум",
+            "link": "Premium",
+            "images": null,
+            "id": 7
+        }
+    ],
     "goods": [],
     "order": []
 }
