@@ -42,12 +42,6 @@
         }
     ],
     "comments": [{
-            "titel": "Всі",
-            "link": "all",
-            "images": null,
-            "id": 8
-        },
-        {
             "titel": "Філадельфія",
             "link": "Filadelfia",
             "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Froly.svg?alt=media&token=73bb7ae0-07bb-4951-846a-988ca3499861",
