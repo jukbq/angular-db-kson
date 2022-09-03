@@ -275,8 +275,11 @@
             "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2F3.-maki-z-lososem-1.jpg.pagespeed.ce._phOokZ4xS.jpg?alt=media&token=e5c7b4d4-e641-45d3-9fce-1cb2e31814af",
             "count": null,
             "id": 12
-        },
-        {
+        }
+
+
+    ],
+    "goods_2": [{
             "component": {
                 "titel": "Сети",
                 "link": "sets",
@@ -305,10 +308,7 @@
             "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2Fimgonline-com-ua-compressed-jknw6idh54664-scaled.jpg.pagespeed.ce.4A9elt-ybs.jpg?alt=media&token=6ca02732-d228-40cd-af1f-9c54a13dae43",
             "count": null,
             "id": 14
-        }
-
-    ],
-    "goods_2": [
+        },
 
         {
             "component": {
