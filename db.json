@@ -43,41 +43,423 @@
     ],
     "comments": [{
             "titel": "Філадельфія",
-            "link": "Filadelfia",
+            "link": "filadelfia",
             "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Froly.svg?alt=media&token=73bb7ae0-07bb-4951-846a-988ca3499861",
             "id": 2
         },
         {
             "titel": "Каліфорнія",
-            "link": "Californian ",
+            "link": "californian",
             "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Froly.svg?alt=media&token=849e55a1-44a5-4be3-9039-365f08db9e04",
             "id": 3
         },
         {
             "titel": "Запечені",
             "link": "baked",
-            "images": null,
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Fmono-supermen.svg?alt=media&token=b8b2adf8-d9e6-4ab0-aae6-f988ad57d631",
             "id": 4
         },
         {
             "titel": "Фірмові",
-            "link": "Firm",
-            "images": null,
+            "link": "firm",
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Flogo.svg?alt=media&token=bf72704a-be40-4a47-b454-4db3f884b61c",
             "id": 5
         },
         {
             "titel": "Макі",
-            "link": "Maki",
-            "images": null,
+            "link": "maki",
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Fpart-3.svg?alt=media&token=8aaaf213-ce25-4679-912d-06aae6c5a5f4",
             "id": 6
         },
         {
             "titel": "Праміум",
-            "link": "Premium",
-            "images": null,
+            "link": "premium",
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Fpart-2.svg?alt=media&token=c4237055-6a85-46b9-a457-60e892140e86",
             "id": 7
+        },
+        {
+            "titel": "Сети",
+            "link": "sets",
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Flogo.svg?alt=media&token=9d583902-837e-4290-9ed8-efd3eb02a71e",
+            "id": 8
+        },
+        {
+            "titel": "Напої",
+            "link": "drinks",
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Fdrinks.svg?alt=media&token=11729841-380a-4cae-ba9d-8065a19c1820",
+            "id": 9
+        },
+        {
+            "titel": "Соус",
+            "link": "sauces",
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Fsous.svg?alt=media&token=e67a19a2-3762-45c8-b7c1-12ce5438edb9",
+            "id": 10
         }
     ],
-    "goods": [],
+    "goods": [{
+            "component": {
+                "titel": "Макі",
+                "link": "maki",
+                "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Fpart-3.svg?alt=media&token=8aaaf213-ce25-4679-912d-06aae6c5a5f4",
+                "id": 6
+            },
+            "name": "Макі з тунцем – 50%",
+            "compound": "Рис, норі, тунець",
+            "weight": 120,
+            "price": 73,
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2F5.-maki-z-tunczem.jpg.pagespeed.ce.a76pRjJKFp.jpg?alt=media&token=3ab92550-f9f9-4142-b6fb-069b059cfef6",
+            "count": 1,
+            "id": 1
+        },
+        {
+            "component": {
+                "titel": "Філадельфія",
+                "link": "filadelfia",
+                "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Froly.svg?alt=media&token=73bb7ae0-07bb-4951-846a-988ca3499861",
+                "id": 2
+            },
+            "name": "Філадельфія в кунжуті",
+            "compound": " Рис, крем сир, огірок, лосось, кунжут",
+            "weight": 240,
+            "price": 182,
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2F2.-filadelfiya-v-kunzhuti.jpg.pagespeed.ce.OnHk5blNMI.jpg?alt=media&token=c1d89e9a-7cad-4af6-981f-18240765dd93",
+            "count": 1,
+            "id": 2
+        },
+        {
+            "component": {
+                "titel": "Філадельфія",
+                "link": "filadelfia",
+                "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Froly.svg?alt=media&token=73bb7ae0-07bb-4951-846a-988ca3499861",
+                "id": 2
+            },
+            "name": "Філадельфія з лососем",
+            "compound": "Риc, крем сир, огірок, лосось",
+            "weight": 280,
+            "price": 202,
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2F1.-filadelfiya-z-lososem.jpg.pagespeed.ce.axvTz8qDqj.jpg?alt=media&token=d064acab-e403-4e0a-aade-14436f5d4ec8",
+            "count": null,
+            "id": 3
+        },
+        {
+            "component": {
+                "titel": "Каліфорнія",
+                "link": "californian",
+                "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Froly.svg?alt=media&token=849e55a1-44a5-4be3-9039-365f08db9e04",
+                "id": 3
+            },
+            "name": "Каліфорнія з лососем",
+            "compound": " Рис, спайсі соус, авокадо, огірок, лосось, кунжут",
+            "weight": 250,
+            "price": 194,
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2F1.1-kaliforniya-z-lososem-v-kunzhuti.jpg.pagespeed.ce.7bkd5a58bq.jpg?alt=media&token=73f1932c-9be4-428f-9c3d-b61efd2db749",
+            "count": null,
+            "id": 4
+        },
+        {
+            "component": {
+                "titel": "Каліфорнія",
+                "link": "californian",
+                "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Froly.svg?alt=media&token=849e55a1-44a5-4be3-9039-365f08db9e04",
+                "id": 3
+            },
+            "name": "Каліфорнія з вугрем",
+            "compound": "Рис, авокадо, огірок, вугор, чорний кунжут, унагі соус",
+            "weight": 240,
+            "price": 224,
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2F4.-kaliforniya-z-vugrem.jpg.pagespeed.ce.GLSGvsXV38.jpg?alt=media&token=c00a77f1-02a9-480d-aa90-66f0b9cf9900",
+            "count": null,
+            "id": 5
+        },
+        {
+            "component": {
+                "titel": "Запечені",
+                "link": "baked",
+                "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Fmono-supermen.svg?alt=media&token=b8b2adf8-d9e6-4ab0-aae6-f988ad57d631",
+                "id": 4
+            },
+            "name": "Запечений моно з креветкою",
+            "compound": "Рис, крем сир, салат айсберг, креветка, кунжут, моно соус, унагі соус",
+            "weight": 330,
+            "price": 227,
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2F1.-zapechenyj-mono-z-los.jpg.pagespeed.ce.CQzkn9F7wB.jpg?alt=media&token=170e24ed-bb95-40ab-aa4a-8af5e5ca31ea",
+            "count": 1,
+            "id": 6
+        },
+        {
+            "component": {
+                "titel": "Запечені",
+                "link": "baked",
+                "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Fmono-supermen.svg?alt=media&token=b8b2adf8-d9e6-4ab0-aae6-f988ad57d631",
+                "id": 4
+            },
+            "name": "Запечені сирні макі з креветкою",
+            "compound": "Рис, креветка, сирний соус, унагі соус, кунжут",
+            "weight": 150,
+            "price": 172,
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2F6.-zapecheni-syrni-maki-z-krevetkoyu.jpg.pagespeed.ce.vP5M1D09Ch.jpg?alt=media&token=94419588-16e7-4808-9536-06ccb2052d33",
+            "count": null,
+            "id": 7
+        },
+        {
+            "component": {
+                "titel": "Фірмові",
+                "link": "firm",
+                "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Flogo.svg?alt=media&token=bf72704a-be40-4a47-b454-4db3f884b61c",
+                "id": 5
+            },
+            "name": "Вегетаріанський з чукою",
+            "compound": " Рис, крем сир, авокадо, айсберг, кунжут, чука, горіховий соус, мигдаль",
+            "weight": 300,
+            "price": 184,
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2F6.-vegetarianskyj-z-chukoyu.jpg.pagespeed.ce.wQ6uiG3c9e.jpg?alt=media&token=4df62707-e9c5-4d79-b2c5-1638ecf2ad1c",
+            "count": null,
+            "id": 8
+        },
+        {
+            "component": {
+                "titel": "Фірмові",
+                "link": "firm",
+                "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Flogo.svg?alt=media&token=bf72704a-be40-4a47-b454-4db3f884b61c",
+                "id": 5
+            },
+            "name": "Сирний",
+            "compound": "Рис, крем сир, фета, кунжут",
+            "weight": 240,
+            "price": 138,
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2F01.-syrnyj.jpg.pagespeed.ce.H76YcCbCou.jpg?alt=media&token=a1c16953-4300-4ce0-8c14-bd3c63226ca9",
+            "count": null,
+            "id": 9
+        },
+        {
+            "component": {
+                "titel": "Праміум",
+                "link": "premium",
+                "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Fpart-2.svg?alt=media&token=c4237055-6a85-46b9-a457-60e892140e86",
+                "id": 7
+            },
+            "name": "Філадельфія солена карамель",
+            "compound": "Рис, крем сир, авокадо, обпалений лосось, унагі соус",
+            "weight": 290,
+            "price": 268,
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2Fimgonline-com-ua-compressed-ctdg7qdqhxv9g-scaled.jpg.pagespeed.ce.rTtqC8rpcp.jpg?alt=media&token=c19acf3f-c1fd-40d2-8b8f-f362c714fb07",
+            "count": null,
+            "id": 10
+        },
+        {
+            "component": {
+                "titel": "Праміум",
+                "link": "premium",
+                "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Fpart-2.svg?alt=media&token=c4237055-6a85-46b9-a457-60e892140e86",
+                "id": 7
+            },
+            "name": "Мексиканський",
+            "compound": "Рис, крем сир, креветка, огірок, кунжут, лосось, гуакамоле, шрірача",
+            "weight": 370,
+            "price": 324,
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2F4.-meksykanskyj.jpg.pagespeed.ce.rr_u6IJhL7.jpg?alt=media&token=c8382add-dd63-4785-85f0-312f547ecfd4",
+            "count": null,
+            "id": 11
+        },
+        {
+            "component": {
+                "titel": "Макі",
+                "link": "maki",
+                "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Fpart-3.svg?alt=media&token=8aaaf213-ce25-4679-912d-06aae6c5a5f4",
+                "id": 6
+            },
+            "name": "Макі з лососем",
+            "compound": " Рис, норі, лосось",
+            "weight": 120,
+            "price": 124,
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2F3.-maki-z-lososem-1.jpg.pagespeed.ce._phOokZ4xS.jpg?alt=media&token=e5c7b4d4-e641-45d3-9fce-1cb2e31814af",
+            "count": null,
+            "id": 12
+        },
+        {
+            "component": {
+                "titel": "Сети",
+                "link": "sets",
+                "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Flogo.svg?alt=media&token=9d583902-837e-4290-9ed8-efd3eb02a71e",
+                "id": 8
+            },
+            "name": "Запечений сет",
+            "compound": "Запечений сирний з креветкою\nЗапечений моно з лососем",
+            "weight": 680,
+            "price": 450,
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2Fimgonline-com-ua-compressed-wnclohqe80-scaled.jpg.pagespeed.ce.DxC77gzUKm.jpg?alt=media&token=3c6857a2-af41-4811-a423-68d6251be859",
+            "count": 1,
+            "id": 13
+        },
+        {
+            "component": {
+                "titel": "Сети",
+                "link": "sets",
+                "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Flogo.svg?alt=media&token=9d583902-837e-4290-9ed8-efd3eb02a71e",
+                "id": 8
+            },
+            "name": "Сет Філадельфія",
+            "compound": " Філадельфія: з лососем / в кунжуті / з тунцем / з вугрем",
+            "weight": 1070,
+            "price": 840,
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2Fimgonline-com-ua-compressed-jknw6idh54664-scaled.jpg.pagespeed.ce.4A9elt-ybs.jpg?alt=media&token=6ca02732-d228-40cd-af1f-9c54a13dae43",
+            "count": null,
+            "id": 14
+        }
+
+    ],
+    "goods_2": [
+
+        {
+            "component": {
+                "titel": "Сети",
+                "link": "sets",
+                "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Flogo.svg?alt=media&token=9d583902-837e-4290-9ed8-efd3eb02a71e",
+                "id": 8
+            },
+            "name": "Запечений сет",
+            "compound": "Запечений сирний з креветкою\nЗапечений моно з лососем",
+            "weight": 680,
+            "price": 450,
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2Fimgonline-com-ua-compressed-wnclohqe80-scaled.jpg.pagespeed.ce.DxC77gzUKm.jpg?alt=media&token=3c6857a2-af41-4811-a423-68d6251be859",
+            "count": 1,
+            "id": 13
+        },
+        {
+            "component": {
+                "titel": "Сети",
+                "link": "sets",
+                "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Flogo.svg?alt=media&token=9d583902-837e-4290-9ed8-efd3eb02a71e",
+                "id": 8
+            },
+            "name": "Сет Філадельфія",
+            "compound": " Філадельфія: з лососем / в кунжуті / з тунцем / з вугрем",
+            "weight": 1070,
+            "price": 840,
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2Fimgonline-com-ua-compressed-jknw6idh54664-scaled.jpg.pagespeed.ce.4A9elt-ybs.jpg?alt=media&token=6ca02732-d228-40cd-af1f-9c54a13dae43",
+            "count": null,
+            "id": 14
+        },
+        {
+            "component": {
+                "titel": "Сети",
+                "link": "sets",
+                "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Flogo.svg?alt=media&token=9d583902-837e-4290-9ed8-efd3eb02a71e",
+                "id": 8
+            },
+            "name": "Сет Макі",
+            "compound": " Макі: з авокадо / з лососем / з огірком / з вугрем",
+            "weight": 480,
+            "price": 460,
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2Fimgonline-com-ua-compressed-iomk776oplygk9-scaled.jpg.pagespeed.ce.HUeAZrWFGu.jpg?alt=media&token=2f0ba6c0-30d2-4d8d-a639-ed5d22811081",
+            "count": null,
+            "id": 15
+        },
+        {
+            "component": {
+                "titel": "Сети",
+                "link": "sets",
+                "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Flogo.svg?alt=media&token=9d583902-837e-4290-9ed8-efd3eb02a71e",
+                "id": 8
+            },
+            "name": "Унагі сет",
+            "compound": "Філадельфія з вугрем / Каліфорнія з вугрем / Фелікс з вугрем",
+            "weight": 800,
+            "price": 730,
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2Fimgonline-com-ua-compressed-gqugtbdvryaongv-scaled.jpg.pagespeed.ce.FOdTLtKV56.jpg?alt=media&token=69b1dbe4-842a-406d-b959-da6deb0e115f",
+            "count": null,
+            "id": 16
+        },
+        {
+            "component": {
+                "titel": "Напої",
+                "link": "drinks",
+                "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Fdrinks.svg?alt=media&token=11729841-380a-4cae-ba9d-8065a19c1820",
+                "id": 9
+            },
+            "name": "Pepsi",
+            "compound": "Pepsi",
+            "weight": 33,
+            "price": 31,
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2Fpepsicola.jpg.pagespeed.ce._GE3wDu348.jpg?alt=media&token=b6f3001a-13f4-4dcc-94d8-d13396204c7f",
+            "count": 1,
+            "id": 17
+        },
+        {
+            "component": {
+                "titel": "Напої",
+                "link": "drinks",
+                "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Fdrinks.svg?alt=media&token=11729841-380a-4cae-ba9d-8065a19c1820",
+                "id": 9
+            },
+            "name": "Fanta апельсин",
+            "compound": "Fanta апельсин",
+            "weight": 0.33,
+            "price": 31,
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2Ffanta-033.jpg.pagespeed.ce.AS23fDMltR.jpg?alt=media&token=79c346c9-b21b-4397-930b-e7820736aa3b",
+            "count": null,
+            "id": 18
+        },
+        {
+            "component": {
+                "titel": "Напої",
+                "link": "drinks",
+                "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Fdrinks.svg?alt=media&token=11729841-380a-4cae-ba9d-8065a19c1820",
+                "id": 9
+            },
+            "name": "Сік мультифруктовий “Galicia”",
+            "compound": "Сік мультифруктовий “Galicia”",
+            "weight": 1,
+            "price": 60,
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2Fmultyfrut.jpg.pagespeed.ce.pYbuqQMXd8.jpg?alt=media&token=918e9dc3-3c5b-4ecb-a9e4-f849338d0e49",
+            "count": null,
+            "id": 19
+        },
+        {
+            "component": {
+                "titel": "Соус",
+                "link": "sauces",
+                "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Fsous.svg?alt=media&token=e67a19a2-3762-45c8-b7c1-12ce5438edb9",
+                "id": 10
+            },
+            "name": "Імбир",
+            "compound": "Імбир",
+            "weight": 30,
+            "price": 12,
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2F3333.png.pagespeed.ce.vQR20Z8Iaq.png?alt=media&token=6d71c4d6-3a19-476c-ad92-0cd06818e43b",
+            "count": null,
+            "id": 20
+        },
+        {
+            "component": {
+                "titel": "Соус",
+                "link": "sauces",
+                "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Fsous.svg?alt=media&token=e67a19a2-3762-45c8-b7c1-12ce5438edb9",
+                "id": 10
+            },
+            "name": "Васабі",
+            "compound": "Васабі",
+            "weight": 25,
+            "price": 12,
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2F4444.png.pagespeed.ce.eju3nbNNBX.png?alt=media&token=a9841a97-bd6b-4b07-bab0-3bb1451743be",
+            "count": null,
+            "id": 21
+        },
+        {
+            "component": {
+                "titel": "Соус",
+                "link": "sauces",
+                "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/icon%2Fsous.svg?alt=media&token=e67a19a2-3762-45c8-b7c1-12ce5438edb9",
+                "id": 10
+            },
+            "name": "Соєвий соус",
+            "compound": "Соєвий соус",
+            "weight": 150,
+            "price": 24,
+            "images": "https://firebasestorage.googleapis.com/v0/b/mod6-progect.appspot.com/o/images%2F22334.jpg.pagespeed.ce.8Xt2zM42sb.jpg?alt=media&token=f4f0bbcb-c163-483c-992a-87687874854f",
+            "count": null,
+            "id": 22
+        }
+    ],
     "order": []
 }
